@@ -72,10 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvee-23&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanvee-23&theme=tokyonight"/>
-</p>
-
 ---
 
 # 🔥 GitHub Streak
