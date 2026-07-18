@@ -161,3 +161,165 @@ Innovation
 </div>
 
 ---
+
+
+<!-- ===================================================== -->
+<!--                FEATURED PROJECTS                      -->
+<!-- ===================================================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+Projects that reflect my passion for AI, software engineering, and solving real-world problems.
+</p>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 💰 FinTrack AI
+
+AI-powered finance assistant that helps users track expenses, analyze spending, and receive intelligent financial insights.
+
+**Tech**
+- React
+- Node.js
+- AI
+- JavaScript
+
+⭐ Status: **Active**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎉 Greeting Generator
+
+An AI-powered greeting card platform that creates personalized greetings for birthdays, weddings, festivals, and more.
+
+**Tech**
+- HTML
+- CSS
+- JavaScript
+- Gemini API
+
+⭐ Status: **Completed**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📚 AI Study Companion
+
+A productivity platform combining Pomodoro, AI study tools, notes, quizzes, and smart revision.
+
+**Tech**
+- React
+- AI
+- Firebase
+
+⭐ Status: **Building**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+| Certificate | Status |
+|--------------|--------|
+| ☁ Microsoft Azure AZ-900 | ✅ Certified |
+| 🤖 AI & Future Technologies | 🎓 Ongoing |
+| 💻 Java Programming | 📖 Learning |
+
+</div>
+
+---
+
+# 🌱 Current Journey
+
+```text
+2026 Roadmap
+
+████████████████░░░░  Java
+
+███████████░░░░░░░░  React
+
+██████████████░░░░░  AI Development
+
+█████████████░░░░░░ Python
+
+████████░░░░░░░░░░░ Open Source
+```
+
+---
+
+# 🎯 Mission 2026
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📌 Academic
+
+✅ Master Java
+
+✅ Learn DSA
+
+✅ Explore AI
+
+✅ Build Full Stack Projects
+
+</td>
+
+<td width="50%">
+
+### 🚀 Career
+
+🏆 Win Hackathons
+
+☁ Earn Cloud Certifications
+
+💻 Build Portfolio
+
+🌍 Contribute to Open Source
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📂 Currently Working On
+
+<div align="center">
+
+| Project | Progress |
+|---------|----------|
+| 💰 FinTrack AI | 🟢 Active |
+| 📚 AI Study Companion | 🟡 In Progress |
+| 🎉 Greeting Generator | ✅ Completed |
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+> **"Every project begins with curiosity and grows through consistency."**
+
+</div>
+
+---
