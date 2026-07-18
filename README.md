@@ -1,100 +1,142 @@
+<!-- ===================================================== -->
+<!--                TANVEE'S GITHUB PROFILE               -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Tanvee Banner"/>
+</p>
+
 <div align="center">
 
-# 👋 Hi, I'm Tanvee
+# 👋 Hey, I'm Tanvee
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=AI+%26+Future+Tech+Student;Building+Projects+with+Code;Java+%7C+Python+%7C+React;Hackathon+Enthusiast;Always+Learning+Something+New" />
+### AI • Software Engineering • Hackathons
 
-### 🚀 Building ideas into real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=850&lines=Building+Intelligent+Solutions+with+Code;AI+%7C+Java+%7C+React+%7C+Python;Hackathon+Enthusiast;Always+Learning+Something+New" />
 
 </div>
+
+---
+
+# 🤖 AI Terminal
+
+```text
+> boot Tanvee.exe
+
+██████████████████████████ 100%
+
+Loading Profile...
+
+✔ AI & Future Technologies Student
+
+✔ Software Developer
+
+✔ Java Learner
+
+✔ React Explorer
+
+✔ Python Enthusiast
+
+✔ Azure AZ-900 Certified
+
+✔ Hackathon Builder
+
+----------------------------------------
+
+SYSTEM STATUS
+
+🟢 ONLINE
+
+CURRENT MISSION
+
+Building intelligent solutions with code.
+
+NEXT TARGET
+
+Become an AI Software Engineer 🚀
+
+```
 
 ---
 
 # 💫 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR3NzNtZzJ4OG5udndudnNsbjMwZTRpcWF4aXFocDF6eXU4aTVrYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
+
+### 👩‍💻 Who Am I?
+
 🎓 B.Tech CSE (AI & Future Technologies)
 
-💡 Passionate about Artificial Intelligence and Software Development
+🤖 Passionate about Artificial Intelligence
 
-🏆 Hackathon Enthusiast
+💻 Love building real-world software
 
-🌱 Currently learning Java, React and AI
+🏆 Active Hackathon Participant
 
-🚀 Love turning ideas into products
+🌱 Currently learning Java, React & AI
+
+🚀 Interested in Open Source
+
+☁ Microsoft Azure AZ-900 Certified
+
+✨ I believe that every project is an opportunity to learn something new.
+
+<br>
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Current Status
+
+```yaml
+Name        : Tanvee
+
+Education   : B.Tech CSE (AI & Future Technologies)
+
+Focus       : AI + Software Development
+
+Learning    : Java | React | Python
+
+Working On  : FinTrack AI
+
+Goal        : Software Engineer
+
+Location    : India 🇮🇳
+```
+
+---
+
+# 🛠 Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,git,github,vscode,azure" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Current Learning Roadmap
 
-| Project | Description |
-|----------|-------------|
-| 💰 **FinTrack AI** | Smart finance management powered by AI |
-| 🎉 **Greeting Generator** | AI-powered greeting & invitation platform |
-| 📚 **AI Study Companion** | Study assistant with AI tools & Pomodoro |
+```
 
----
+☕ Java               ████████████░░░░
 
-# 🌱 Currently Learning
+⚛ React              █████████░░░░░░
 
-- ☕ Java
-- ⚛️ React
-- 🤖 Artificial Intelligence
-- 🧠 Large Language Models (LLMs)
+🤖 Artificial AI      ███████████░░░░
 
----
+🐍 Python             █████████████░░
 
-# 🎯 Goals
+☁ Azure              ██████████░░░░░
 
-✨ Build impactful AI applications
-
-✨ Contribute to Open Source
-
-✨ Win more Hackathons
-
-✨ Become a Software Engineer
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Tanvee-23&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvee-23&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 💬 Quote
-
-> **"Small progress every day leads to big achievements."**
+```
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=Tanvee-23&style=for-the-badge&color=6C63FF"/>
+## ⚡ "Code. Learn. Build. Repeat."
 
 </div>
+
+---
