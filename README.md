@@ -65,15 +65,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvee-23&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvee-23&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
