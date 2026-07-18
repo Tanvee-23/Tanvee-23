@@ -1,92 +1,112 @@
 <div align="center">
 
-# Hi there, I'm Tanvee 👋
+# 👋 Hi, I'm Tanvee
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=CSE+(AI+%26+Future+Technologies)+Student;Building+AI+Projects;Hackathon+Enthusiast;Learning+Java+%7C+React+%7C+Python;Turning+Ideas+into+Reality+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=AI+%26+Future+Tech+Student;Building+Projects+with+Code;Java+%7C+Python+%7C+React;Hackathon+Enthusiast;Always+Learning+Something+New" />
+
+### 🚀 Building ideas into real-world projects.
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
 🎓 B.Tech CSE (AI & Future Technologies)
 
-🤖 Passionate about AI, ML and Software Development
+💡 Passionate about Artificial Intelligence and Software Development
 
-💡 Love solving real-world problems through technology
+🏆 Hackathon Enthusiast
 
-🚀 Exploring Java, React, Python and LLMs
+🌱 Currently learning Java, React and AI
 
-🏆 Interested in Hackathons & Open Source
-
-🌱 Learning something new every day
+🚀 Love turning ideas into products
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,react,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,git,github,vscode" />
 
-</p>
-
----
-
-## 📌 Currently Working On
-
-- 💰 FinTrack AI
-- 🎉 Greeting Generator
-- 📚 AI Study Companion
-- ⚡ Java + React
+</div>
 
 ---
 
-## 🌟 Goals
+# 🚀 Featured Projects
 
-🎯 Become a skilled AI Engineer
-
-🎯 Build impactful products
-
-🎯 Contribute to Open Source
-
-🎯 Win Hackathons
+| Project | Description |
+|----------|-------------|
+| 💰 **FinTrack AI** | Smart finance management powered by AI |
+| 🎉 **Greeting Generator** | AI-powered greeting & invitation platform |
+| 📚 **AI Study Companion** | Study assistant with AI tools & Pomodoro |
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanvee-23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvee-23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- ☕ Java
+- ⚛️ React
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models (LLMs)
 
 ---
 
-## 🔥 GitHub Streak
+# 🎯 Goals
 
-<p align="center">
+✨ Build impactful AI applications
 
-<img src="https://streak-stats.demolab.com?user=Tanvee-23&theme=tokyonight&hide_border=true"/>
+✨ Contribute to Open Source
 
-</p>
+✨ Win more Hackathons
+
+✨ Become a Software Engineer
 
 ---
 
-## 💬 Favorite Quote
+# 📈 GitHub Analytics
 
-> *"Every expert was once a beginner who refused to quit."*
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanvee-23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvee-23&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tanvee-23&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvee-23&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💬 Quote
+
+> **"Small progress every day leads to big achievements."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🌟 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Tanvee-23&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Tanvee-23&style=for-the-badge&color=6C63FF"/>
 
 </div>
