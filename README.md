@@ -1,141 +1,162 @@
-<!-- ===================================================== -->
-<!--                TANVEE'S GITHUB PROFILE               -->
-<!-- ===================================================== -->
+<div align="center">
 
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Tanvee Banner"/>
+<img src="./banner.gif" width="100%" alt="Banner"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=40&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=BUILD.;LEARN.;INNOVATE.;CREATE.;SHIP." />
+
+<h1>Hi 👋 I'm <span style="color:#7C3AED;">Tanvee</span></h1>
+
+<h3>AI • SOFTWARE • HACKATHONS</h3>
+
+<p>
+Building intelligent solutions with code.<br>
+Learning every day. Building every week.
 </p>
 
-<div align="center">
-
-# 👋 Hey, I'm Tanvee
-
-### AI • Software Engineering • Hackathons
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=850&lines=Building+Intelligent+Solutions+with+Code;AI+%7C+Java+%7C+React+%7C+Python;Hackathon+Enthusiast;Always+Learning+Something+New" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=Tanvee-23&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/Tanvee-23?style=for-the-badge&logo=github&color=6C63FF"/>
+<img src="https://img.shields.io/github/stars/Tanvee-23?style=for-the-badge&logo=github&color=00C4CC"/>
+</p>
 
 </div>
 
 ---
 
-# 🤖 AI Terminal
+# ⚡ CURRENT STATUS
 
-```text
-> boot Tanvee.exe
+<table>
 
-██████████████████████████ 100%
+<tr>
 
-Loading Profile...
+<td width="50%">
 
-✔ AI & Future Technologies Student
+### 👩‍💻 ROLE
 
-✔ Software Developer
+```diff
++ AI Student
 
-✔ Java Learner
++ Software Developer
 
-✔ React Explorer
++ Java Learner
 
-✔ Python Enthusiast
++ React Explorer
 
-✔ Azure AZ-900 Certified
-
-✔ Hackathon Builder
-
-----------------------------------------
-
-SYSTEM STATUS
-
-🟢 ONLINE
-
-CURRENT MISSION
-
-Building intelligent solutions with code.
-
-NEXT TARGET
-
-Become an AI Software Engineer 🚀
-
++ Hackathon Builder
 ```
 
----
+</td>
 
-# 💫 About Me
+<td width="50%">
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR3NzNtZzJ4OG5udndudnNsbjMwZTRpcWF4aXFocDF6eXU4aTVrYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
-
-### 👩‍💻 Who Am I?
-
-🎓 B.Tech CSE (AI & Future Technologies)
-
-🤖 Passionate about Artificial Intelligence
-
-💻 Love building real-world software
-
-🏆 Active Hackathon Participant
-
-🌱 Currently learning Java, React & AI
-
-🚀 Interested in Open Source
-
-☁ Microsoft Azure AZ-900 Certified
-
-✨ I believe that every project is an opportunity to learn something new.
-
-<br>
-
----
-
-# ⚡ Current Status
+### 🎯 CURRENT MISSION
 
 ```yaml
-Name        : Tanvee
+Building:
+   AI Products
 
-Education   : B.Tech CSE (AI & Future Technologies)
+Learning:
+   Java
+   React
+   AI
 
-Focus       : AI + Software Development
-
-Learning    : Java | React | Python
-
-Working On  : FinTrack AI
-
-Goal        : Software Engineer
-
-Location    : India 🇮🇳
+Goal:
+   Software Engineer
 ```
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🛠 Tech Arsenal
+# 💎 WHAT I LOVE BUILDING
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+## 🤖
+
+### AI
+
+LLMs
+
+Automation
+
+Machine Learning
+
+</td>
+
+<td align="center" width="33%">
+
+## 💻
+
+### Software
+
+Frontend
+
+Backend
+
+APIs
+
+</td>
+
+<td align="center" width="33%">
+
+## 🚀
+
+### Hackathons
+
+Rapid Prototyping
+
+Problem Solving
+
+Innovation
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚔ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,git,github,vscode,azure" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,git,github,vscode,azure"/>
 
 </div>
 
 ---
 
-# 🎯 Current Learning Roadmap
+# 📈 CURRENT FOCUS
 
-```
+<div align="center">
 
-☕ Java               ████████████░░░░
+| 🚀 Focus | Progress |
+|---------|---------|
+| ☕ Java | ████████████░░ |
+| ⚛ React | █████████░░░░ |
+| 🤖 Artificial Intelligence | ███████████░░ |
+| 🐍 Python | █████████████ |
+| ☁ Azure | ██████████░░░ |
 
-⚛ React              █████████░░░░░░
-
-🤖 Artificial AI      ███████████░░░░
-
-🐍 Python             █████████████░░
-
-☁ Azure              ██████████░░░░░
-
-```
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ "Code. Learn. Build. Repeat."
+## ✨ Building one project at a time.
 
 </div>
 
